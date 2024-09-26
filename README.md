@@ -102,5 +102,5 @@ Now I beileve you are witnessing the whole system running and transmitting the d
 ## Contact
 for any isues you can send mail to any of the following address:
 
-1. <li><a href="hasan.mahmood@ewubd.edu">hasan.mahmood@ewubd.edu</a></li>
-1. <li><a href="hasan.mahmood@ewubd.edu">rahmanmehraj627@gmail.com</a></li>
+<li>hasan.mahmood@ewubd.edu</li>
+<li>rahmanmehraj627@gmail.com</li>
