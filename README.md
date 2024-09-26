@@ -43,7 +43,6 @@
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -97,10 +96,11 @@ The STGen IoT sensor traffic generator is a publisher/subscriber model. It gener
 
 Now I beileve you are witnessing the whole system running and transmitting the data from server to client after generating the data.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Contact
 for any isues you can send mail to any of the following address:
 
 <li>hasan.mahmood@ewubd.edu</li>
 <li>rahmanmehraj627@gmail.com</li>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
