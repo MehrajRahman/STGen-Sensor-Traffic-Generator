@@ -78,9 +78,13 @@ The STGen IoT sensor traffic generator is a publisher/subscriber model. It gener
 ```sh
    cd launcher
 ```
-4. Run make command. this will construct your launcher environment.
+4. Run the following command. this will launch your server.
 ```sh
-   python3 iot-launcher.py ../conf/test.conf localhost 5004 5005 10 4 1 -A
+   python3 STGen_server.py ../conf/test.conf localhost 5004 5005 10
+```
+6. Then, This will construct your sensor environment.
+```sh
+   python3 sensor-launcher.py localhost 5004 10 4 
 ```
 5. Open another terminal. change the directory to the downloaded file. Now run the follwing command.
 
@@ -91,7 +95,7 @@ The STGen IoT sensor traffic generator is a publisher/subscriber model. It gener
 6. Run the client.
 
 ```sh
-   ./iotclient -lclient1_sensor_log -slocalhost -rgps_2  -p5005 -A
+   ./SRTP_client -lclient1_sensor_log -slocalhost -rgps_2  -p5005 -A
 ```
 
 Now I beileve you are witnessing the whole system running and transmitting the data from server to client after generating the data.
